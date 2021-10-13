@@ -1,0 +1,8 @@
+[
+    {"id":1,"name":"Replace Tire","price":2000,"time":2,"img":"https://i.ibb.co/GJhmX5s/1-jpg.jpg", "description":"Car is the most attractive things for us. Replacement easy. The most expensive replacement is Engine replacement."},
+    {"id":2,"name":"Engine Diagnostic","price":5000,"time":5,"img":"https://i.ibb.co/8M0LmVV/2-jpg.jpg", "description":"Car is the most attractive things for us. Replacement easy. The most expensive replacement is Engine replacement."},
+    {"id":3,"name":"Shock Absorber replace","price":3500,"time":4,"img":"https://i.ibb.co/KsKKmhp/3-jpg.jpg", "description":"Car is the most attractive things for us. Replacement easy. The most expensive replacement is Engine replacement."},
+    {"id":4,"name":"Oil Change","price":1000,"time":1,"img":"https://i.ibb.co/3mpDpYY/4-jpg.jpg", "description":"Car is the most attractive things for us. Replacement easy. The most expensive replacement is Engine replacement."},
+    {"id":5,"name":"Engine Overhauling","price":8000,"time":5,"img":"https://i.ibb.co/GkNJnHV/5-jpg.jpg", "description":"Car is the most attractive things for us. Replacement easy. The most expensive replacement is Engine replacement."},
+    {"id":6,"name":"Dent & Painting","price":12000,"time":10,"img":"https://i.ibb.co/C8HKJ0r/6-jpg.jpg", "description":"Car is the most attractive things for us. Replacement easy. The most expensive replacement is Engine replacement."}
+]
